@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "LWCSuperbadge",
+  "namespace": "",
+  "sfdcLoginUrl": "https://empathetic-wolf-mmiyg-dev-ed.trailblaze.lightning.force.com/",
+  "sourceApiVersion": "59.0"
+}
