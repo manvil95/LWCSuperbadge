@@ -1,9 +1,14 @@
-ebody{
+body{
   margin: 0;
 }
 
 .container {
   padding: 5px;
+}
+
+.price{ 
+  color: green; 
+  font-weight: bold; 
 }
 
 .price, .description, .bikeName {
