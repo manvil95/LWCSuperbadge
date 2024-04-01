@@ -1,0 +1,15 @@
+ebody{
+  margin: 0;
+}
+
+.container {
+  padding: 5px;
+}
+
+.price, .description, .bikeName {
+  padding: 5px;
+}
+
+.bagdets {
+  margin: 5px;
+}
